@@ -1,0 +1,25 @@
+body {
+  background-color: rgba(25, 9, 252, 0.521);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 40px;
+}
+img {
+  width: 25%;
+}
+.btn {
+  border: none;
+  background-color: #eee;
+  color: #222;
+  font-size: 1rem;
+  font-family: inherit;
+  padding: 0rem 0rem;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #ccc;
+}
